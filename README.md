@@ -1,4 +1,4 @@
-[![MasterHead](https://5.imimg.com/data5/KZ/HD/EO/GLADMIN-32813516/vlsil-banner-500x500.jpg)](https://Arun-Yellannagari.io)
+[![MasterHead](https://5.imimg.com/data5/KZ/HD/EO/GLADMIN-32813516/vlsil-banner-500x500.jpg)](https://www.naukri.com/mnjuser/profile)
 <h1 align="center">Hi 👋, I'm ArunKumar Reddy Yellannagari</h1>
 <h3 align="center">A passionate VLSI Proffesssional from India</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
